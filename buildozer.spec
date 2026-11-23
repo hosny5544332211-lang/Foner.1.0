@@ -1,6 +1,6 @@
 [app]
-title = Cyber Doom 3D
-package.name = cyberdoom3d
+title = Foner.1.0
+package.name = foner10
 package.domain = org.hosny
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
