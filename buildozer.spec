@@ -5,6 +5,7 @@ package.domain = org.hosny
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 version = 1.0
+icon.filename = %(source.dir)s/image_5bfc8eed.png
 requirements = python3,pygame
 orientation = landscape
 fullscreen = 1
